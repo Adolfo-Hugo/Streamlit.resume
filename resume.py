@@ -24,7 +24,7 @@ st.markdown("---")
 # Sobre mim
 st.header("Sobre mim")
 st.write("""
-Sou Adolfo Hugo Silva, contador apaixonado por dados, tecnologia e inovação. Minha missão é transformar a contabilidade tradicional por meio da inteligência de dados e automação de processos.
+Sou Adolfo Hugo Silva, Bacharel contábil, apaixonado por dados, tecnologia e inovação. Minha missão é transformar a contabilidade tradicional por meio da inteligência de dados e automação de processos.
 
 Atuo há mais de 5 anos na área contábil-financeira, conduzindo processos de fechamento, conciliações, apuração fiscal e análises financeiras. Mas foi ao integrar Python, Power BI e SQL que encontrei meu diferencial: transformar dados brutos em insights claros, reduzindo erros e otimizando a performance financeira das empresas.
 
