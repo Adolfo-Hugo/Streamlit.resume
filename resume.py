@@ -14,7 +14,7 @@ banner = "https://i.imgur.com/FXzu6nE.jpg"  # Substituir pela imagem da capa per
 st.sidebar.image(banner,  width=250)  # Ajuste do tamanho da imagem
 st.sidebar.header('Adolfo Hugo Silva')
     # Headline magnética
-st.markdown("<h3 style='text-align: center; color: white;'>Contador Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center; color: white;'>Contabilidade e Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL</h1>", unsafe_allow_html=True)
 
 # Frase de posicionamento
 st.markdown("---")
