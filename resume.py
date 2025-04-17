@@ -22,7 +22,7 @@ st.markdown("<h3 style='text-align: center; font-style: italic; color: white;'>\
 st.markdown("---")
 
 # Sobre mim
-st.header("👨‍💼 Sobre mim")
+st.header("Sobre mim")
 st.write("""
 Sou Adolfo Hugo Silva, contador apaixonado por dados, tecnologia e inovação. Minha missão é transformar a contabilidade tradicional por meio da inteligência de dados e automação de processos.
 
