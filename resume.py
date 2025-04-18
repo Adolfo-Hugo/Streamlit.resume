@@ -42,6 +42,7 @@ st.markdown("""
 
 # Projetos e Portfólio
 st.header("📂 Projetos de Destaque")
+
 st.markdown("**Chatbot Personalizado**")
 with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
     st.write("Este projeto foi utilizado a API do DeepSeek para criar um chatbot personalizado, que pode ser utilizado para responder perguntas frequentes ou fornecer informações específicas. A interface foi desenvolvida com Streamlit, permitindo uma interação simples e intuitiva. O chatbot é capaz de entender e responder a perguntas em linguagem natural, tornando-o uma ferramenta útil para empresas que desejam melhorar o atendimento ao cliente.")
