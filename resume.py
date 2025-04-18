@@ -42,6 +42,12 @@ st.markdown("""
 
 # Projetos e Portfólio
 st.header("📂 Projetos de Destaque")
+st.markdown("**Chatbot Personalizado**")
+with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
+    st.write("Este projeto foi utilizado a API do DeepSeek para criar um chatbot personalizado, que pode ser utilizado para responder perguntas frequentes ou fornecer informações específicas. A interface foi desenvolvida com Streamlit, permitindo uma interação simples e intuitiva. O chatbot é capaz de entender e responder a perguntas em linguagem natural, tornando-o uma ferramenta útil para empresas que desejam melhorar o atendimento ao cliente.")
+    st.write("A aplicação é simples e intuitiva, permitindo que os usuários façam perguntas e recebam respostas em tempo real. O chatbot pode ser treinado com dados específicos para fornecer informações relevantes e precisas.")
+    st.markdown("https://hugochatbot.streamlit.app")
+    st.video('https://youtu.be/bXvCGIe4i-M')
 
 st.markdown("**Análise para Conciliação Automática: Domínio Sistemas**")
 with st.expander("Automação de Conciliação Clientes/Fornecedores"):
