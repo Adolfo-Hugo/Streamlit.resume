@@ -4,7 +4,7 @@ from PIL import Image
 # Configurações da página
 st.set_page_config(
     page_title="Adolfo Hugo Silva | Portfólio Profissional",
-    page_icon="📊",
+    page_icon="📋",
     layout="wide"
 )
 
@@ -32,7 +32,7 @@ Criei automações que aumentaram em até 60% a eficiência de processos operaci
 """)
 
 # Competências
-st.header("📌 Competências Técnicas")
+st.header("Competências Técnicas")
 st.markdown("""
 - **Contabilidade e Finanças**: Fechamento contábil, DRE, CMV, SPED Contábil/ECF, IRPJ, conciliações.
 - **Automação**: Python, automação web, otimização de processos.
@@ -125,7 +125,7 @@ Adicionei a planilha clientes_caceal.xlsx onde é necessário alterar as informa
     
 
 # Experiência profissional
-st.header("💼 Experiência Profissional")
+st.header("Experiência Profissional")
 with st.expander("Pretorian Contabilidade | Assistente de Contabilidade"):
     st.write("""
     - Automatização de processos contábeis com Python, reduzindo tempo de execução em até 60%.
@@ -152,7 +152,7 @@ st.markdown("""
 """)
 
 # Certificações
-st.header("📜 Certificações")
+st.header("Certificações")
 st.markdown("""
 - Python Mundo 1, 2 e 3 - Cursos em Vídeo
 - Formação Power BI e SQL Udemy
