@@ -168,7 +168,7 @@ st.sidebar.markdown("""
 - 📧 Email: adolfohugosilva@gmail.com  
 - 📞 WhatsApp: (82) 99683-8463  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adolfo-hugo-silva-a298751aa)  
-- 📂 [GitHub](https://github.com/adolfohugosilva)
+- 📂 [GitHub](www.github.com/Adolfo-Hugo)
 - 📄 [Baixar Currículo em PDF](https://drive.google.com/file/d/1Rodf_389YdafdWk6KtJKLjirmitxsa81/view?usp=sharing)
 
 """)
