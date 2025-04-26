@@ -123,7 +123,10 @@ Adicionei a planilha clientes_caceal.xlsx onde é necessário alterar as informa
 [GitHub]https://github.com/Adolfo-Hugo/webscraping_doeal
 """)
     
-
+st.markdown("**Validador de CPFs**")
+with st.expander("Validador de CPFs"):
+    st.write("Este projeto é um validador de CPF desenvolvido em Python, utilizando a biblioteca Streamlit para criar uma interface web interativa. O objetivo principal é permitir que os usuários verifiquem a validade de números de CPF informados.")
+    st.markdown("https://validador-cpf.streamlit.app")
 # Experiência profissional
 st.header("Experiência Profissional")
 with st.expander("Pretorian Contabilidade | Assistente de Contabilidade"):
