@@ -94,7 +94,6 @@ with st.expander("Automação Webscraping Diário Oficial AL"):
     st.video("https://www.youtube.com/watch?v=l8HsOcC35jc",
 )
     st.write("""
-Descrição do Projeto
 Este projeto é um web scraper automatizado desenvolvido em Python para extrair informações do Diário Oficial do Estado de Alagoas. 
 O script busca dados de clientes com base em códigos CACEAL e um intervalo de datas especificado pelo usuário, armazenando os resultados em arquivos Excel.
                 
