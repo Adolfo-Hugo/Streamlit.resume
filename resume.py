@@ -51,7 +51,7 @@ with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
     st.video('https://youtu.be/bXvCGIe4i-M')
 
 st.markdown('**Consulta CNPJ**')
-with st.expander('CNPJ')
+with st.expander('CNPJ'):
 st.write('Este projeto consulta dados de CNPJ via API')
 st.markdown('https://consultascnpj.streamlit.app')
 
