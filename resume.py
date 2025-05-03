@@ -52,7 +52,7 @@ with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
 
 st.markdown('**Consulta CNPJ**')
 with st.expander('CNPJ'):
-    st.write('Este projeto consulta dados de CNPJ via API')
+    st.write('Este projeto consulta dados de CNPJ via API, criando um dataframe com as informações coletadas')
     st.markdown('https://consultascnpj.streamlit.app')
 
 st.markdown("**Análise para Conciliação Automática: Domínio Sistemas**")
