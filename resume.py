@@ -52,8 +52,8 @@ with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
 
 st.markdown('**Consulta CNPJ**')
 with st.expander('CNPJ'):
-st.write('Este projeto consulta dados de CNPJ via API')
-st.markdown('https://consultascnpj.streamlit.app')
+    st.write('Este projeto consulta dados de CNPJ via API')
+    st.markdown('https://consultascnpj.streamlit.app')
 
 st.markdown("**Análise para Conciliação Automática: Domínio Sistemas**")
 with st.expander("Automação de Conciliação Clientes/Fornecedores"):
