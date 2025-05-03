@@ -49,8 +49,9 @@ with st.expander("Chatbot utilizando API DeepSeek e Streamlit"):
     st.write("A aplicação é simples e intuitiva, permitindo que os usuários façam perguntas e recebam respostas em tempo real. O chatbot pode ser treinado com dados específicos para fornecer informações relevantes e precisas.")
     st.markdown("https://hugochatbot.streamlit.app")
     st.video('https://youtu.be/bXvCGIe4i-M')
-    
-with st.expander('**Consulta CNPJ**')
+
+st.markdown('**Consulta CNPJ**')
+with st.expander('CNPJ')
 st.write('Este projeto consulta dados de CNPJ via API')
 st.markdown('https://consultascnpj.streamlit.app')
 
