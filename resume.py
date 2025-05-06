@@ -14,12 +14,12 @@ banner = "https://i.imgur.com/FXzu6nE.jpg"  # Substituir pela imagem da capa per
 st.sidebar.image(banner,  width=250)  # Ajuste do tamanho da imagem
 st.sidebar.header('Adolfo Hugo Silva')
     # Headline magnética
-#st.markdown("<h3 style='text-align: center; color: white;'>Contabilidade e Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL</h1>", unsafe_allow_html=True)
-st.markdown("Contabilidade e Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL")
+st.markdown("<h3 style='text-align: center; color: black;'>Contabilidade e Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL</h1>", unsafe_allow_html=True)
+#st.markdown("Contabilidade e Data-Driven • Eficiência Contábil • Automação com Python e Power BI e MySQL")
 # Frase de posicionamento
 st.markdown("---")
-#st.markdown("<h3 style='text-align: center; font-style: italic; color: white;'>\"Unindo tecnologia e finanças para gerar inteligência e precisão na tomada de decisões.\"</h3>", unsafe_allow_html=True)
-st.markdown("Unindo tecnologia e finanças para gerar inteligência e precisão na tomada de decisões.")
+st.markdown("<h3 style='text-align: center; font-style: italic; color: black;'>\"Unindo tecnologia e finanças para gerar inteligência e precisão na tomada de decisões.\"</h3>", unsafe_allow_html=True)
+#st.markdown("Unindo tecnologia e finanças para gerar inteligência e precisão na tomada de decisões.")
 st.markdown("---")
 
 # Sobre mim
